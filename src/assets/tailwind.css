@@ -1,0 +1,101 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*-----------------------------------
+// Reset CSS
+-----------------------------------*/
+* {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+::-webkit-input-placeholder {
+  opacity: 1;
+}
+::-moz-placeholder {
+  opacity: 1;
+}
+:-ms-input-placeholder {
+  opacity: 1;
+}
+
+::placeholder {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+html,
+body {
+  scroll-behavior: smooth;
+}
+
+body {
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input,
+button,
+textarea {
+  font-size: inherit;
+}
+
+button {
+  cursor: pointer;
+  color: inherit;
+}
+
+a {
+  color: inherit;
+}
+
+:focus {
+  border: inherit;
+  outline: none;
+}
+
+a:link,
+a:visited,
+a:hover {
+  text-decoration: none;
+}
+
+span {
+  display: inline-block;
+}
+
+a:focus,
+a:active {
+  outline: none;
+  border: none;
+}
+
+img {
+  vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: inherit;
+  font-size: inherit;
+}
+
+.scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #20b2aa;
+}
+
