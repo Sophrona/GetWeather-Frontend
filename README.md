@@ -1,29 +1,10 @@
-# GetWeather
+### Vue app for tracking weather - Vetero
 
-This template should help get you started developing with Vue 3 in Vite.
+## This repository is for viewing purposes only
+## Don't try to clone and run on local server
 
-## Recommended IDE Setup
+# Deploy
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+https://vetero-weather.netlify.app/
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
