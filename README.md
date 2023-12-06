@@ -4,9 +4,4 @@
 
 https://v-vetero.netlify.app/
 
-This repository is for viewing purposes only
-Don't try to clone and run on local server
-
-
-
-
+**Note:** This repository is for viewing purposes only. Please do not attempt to clone and run it on a local server.
